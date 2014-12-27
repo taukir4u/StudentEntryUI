@@ -1,0 +1,8 @@
+H:\Taukir\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe.config
+H:\Taukir\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe
+H:\Taukir\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.pdb
+H:\Taukir\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.StudentEntryUI.resources
+H:\Taukir\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.Properties.Resources.resources
+H:\Taukir\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.csproj.GenerateResource.Cache
+H:\Taukir\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.exe
+H:\Taukir\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.pdb
