@@ -65,8 +65,6 @@ namespace StudentEntryUI
                 lv.SubItems.Add(Reader.GetString(2));
                 lv.SubItems.Add(Reader.GetString(3));
                 listView.Items.Add(lv);
-
-
             }
 
             Reader.Close();
@@ -80,7 +78,5 @@ namespace StudentEntryUI
             addressTextBox.Text = "";
             emailTextBox.Text = "";
         }
-
-
     }
 }
